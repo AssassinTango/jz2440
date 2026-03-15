@@ -1,0 +1,11 @@
+# 忽略所有编译输出文件
+*.o
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+*.img
+*.dis
+*.a
+*.so
