@@ -9,3 +9,4 @@
 *.dis
 *.a
 *.so
+.vscode/
